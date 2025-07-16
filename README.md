@@ -1,6 +1,6 @@
 # Lumea
 WordPress website (multipage) which is assigned for the Course Project in Web Design, 1st year, STD, PU.<br>
-It is developed with the help of Visual Studio Code.<br>
+It is developed with the help of WordPress.<br>
 The technologies used are WordPress and XAMPP. The multimedia is generative AI. <br>
 The whole project is placed in the main branch. <br>
 <br>
